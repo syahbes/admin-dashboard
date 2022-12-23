@@ -7,4 +7,4 @@ sass, React Circular Progressbar, recharts<br/>
 Live at : https://admin-dashboard-weld-six.vercel.app/
 
 Screen Shot :
-![image](https://user-images.githubusercontent.com/99732661/193409748-686a0d4d-d473-4999-b25c-69233a73d201.png)
+![image](https://user-images.githubusercontent.com/99732661/209295021-c93f32e3-6736-474e-b473-a8addedcbce7.png)
